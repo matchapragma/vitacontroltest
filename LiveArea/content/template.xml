@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<livearea style="pspemu" format-ver="01.00" content-rev="1">
+    
+    <!--System-->
+    
+    <title color="#000000ff"/>
+    
+    <!--Basic Config-->
+    
+    <livearea-background>
+      <image>bg0.png</image>
+    </livearea-background>
+    
+    <gate>
+      <startup-image>gate.png</startup-image>
+    </gate>
+    
+    <!--Widgets-->
+    
+    <frame id="frame1">
+        <liveitem>
+            <text>
+              <str color="#000000">This app tests inputs on your Vita and provides a guide for mapping in Unity. Tap here to follow me on Twitter: @matchapragma_</str>
+            </text>
+            <target>https://twitter.com/matchapragma_</target>
+        </liveitem>
+    </frame>
+    
+</livearea>

@@ -11,6 +11,8 @@ You will need to set-up Unity to build PS Vita titles. You can do this using the
 
 If you are a Windows user then you won't have any problems. If you are a macOS user (like me), then you can either BootCamp your Mac, or use a virtual machine like Parallels Desktop (what I'm using). For Linux users, you should either run a VM or install Windows in a separate volume.
 
+Once you have Unity setup, create a new project called "vitacontroltest" and then drag all the files (or just the Assets folder) into your project's folder.
+
 The tutorial above also includes instructions on how to build your Unity PS Vita projects. This repo doesn't require anything special, so you can build this using those instructions.
 
 ## Licensing and Legal thingies
